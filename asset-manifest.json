@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Countdown-Timer-React/static/css/main.654f0406.css",
+    "main.js": "/Countdown-Timer-React/static/js/main.155c51b7.js",
+    "static/js/453.f1d7e300.chunk.js": "/Countdown-Timer-React/static/js/453.f1d7e300.chunk.js",
+    "index.html": "/Countdown-Timer-React/index.html",
+    "main.654f0406.css.map": "/Countdown-Timer-React/static/css/main.654f0406.css.map",
+    "main.155c51b7.js.map": "/Countdown-Timer-React/static/js/main.155c51b7.js.map",
+    "453.f1d7e300.chunk.js.map": "/Countdown-Timer-React/static/js/453.f1d7e300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654f0406.css",
+    "static/js/main.155c51b7.js"
+  ]
+}
